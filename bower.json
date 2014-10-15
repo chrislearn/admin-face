@@ -1,0 +1,20 @@
+{
+  "name": "static",
+  "version": "0.3.0",
+  "dependencies": {
+    "jquery": "latest",
+    "requirejs": "latest",
+    "modernizr": "latest",
+    "requirejs-domready": "latest",
+    "lesshat": "latest",
+    "hance.js": "latest",
+    "bootstrap": "latest",
+    "angular": "latest",
+    "angular-bootstrap": "latest",
+    "restangular": "latest",
+    "angular-ui-router": "latest"
+  },
+  "resolutions": {
+    "jquery": ">=1.10.2"
+  }
+}

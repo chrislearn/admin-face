@@ -1,0 +1,14 @@
+{
+  "name": "hance.js",
+  "homepage": "https://github.com/acroidea/hance.js",
+  "version": "0.3.7",
+  "_release": "0.3.7",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.3.7",
+    "commit": "eb7a4453303bc083c0bc6e2c682b7fd90c8e5e5e"
+  },
+  "_source": "git://github.com/acroidea/hance.js.git",
+  "_target": "*",
+  "_originalSource": "hance.js"
+}

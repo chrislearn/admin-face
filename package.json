@@ -1,0 +1,51 @@
+{
+  "name": "static",
+  "description": "An awesome requirejs app",
+  "version": "0.3.0",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt qunit"
+  },
+  "author": {
+    "name": "Chrislearn Young",
+    "email": "chris@acroidea.com",
+    "url": "http://bower.io/"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/danheberden/gith/blob/master/LICENSE-MIT"
+    }
+  ],
+  "repository": {},
+  "devDependencies": {
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-qunit": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-clean": "latest",
+    "grunt": "latest",
+    "grunt-contrib-requirejs": "latest",
+    "grunt-contrib-connect": "latest",
+    "bower": "latest",
+    "less": "latest",
+    "grunt-bower": "latest",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-imagemin": "latest",
+    "grunt-contrib-htmlmin": "latest",
+    "grunt-regex-replace": "latest",
+    "grunt-parallel": "latest",
+    "grunt-require-createjs": "latest",
+    "grunt-strip": "latest"
+  },
+  "dependencies": {
+    "imagemin-gifsicle": "^2.0.0",
+    "imagemin-jpegtran": "^2.0.0",
+    "imagemin-optipng": "^2.0.1",
+    "imagemin-pngquant": "^2.0.0"
+  }
+}
